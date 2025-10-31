@@ -3,7 +3,7 @@ background: "#2b363c"
 accent: "#af1e28"
 foreground: "#ffffff"
 background_image:
-  path: /Users/wihlarkoprasdegdho/.warp/themes/Mami Theme 3.jpeg
+  path: Mami Theme 3.jpeg
   opacity: 30
 details: darker
 terminal_colors:
